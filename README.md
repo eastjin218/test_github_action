@@ -1,2 +1,2 @@
-# test_git
-test_git
+# test_github_action
+test_github_action
